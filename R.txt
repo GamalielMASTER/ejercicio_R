@@ -1,11 +1,9 @@
  Nombre <- dlgInput(message = "ingrese su Nombre: ")
 >  edad <- dlgInput(message = "ingrese su Edad: ")
 > print (Nombre, edad)
-The default SciViews GUI (.GUI)
-using widgets from: nativeGUI, textCLI
-* Last call: dlg_input(message = "ingrese su Edad: ", gui = .GUI)
-* Last widgets used: nativeGUI
-* Last status: ok
-* Last result:
-[1] "20 "
-> 
+
+prueba 2 
+_____________
+
+>x <- 50:100
+mean(x) 
